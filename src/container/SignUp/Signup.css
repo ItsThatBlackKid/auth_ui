@@ -1,0 +1,9 @@
+input[type=text], input[type=password] {
+    display: inline-block;
+    padding: 12px 20px
+}
+
+#signup {
+    padding: 12px 20px;
+    display: block;
+}
